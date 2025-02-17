@@ -1,6 +1,6 @@
 import React from 'react';
 import { Users, Award, Clock, Briefcase } from 'lucide-react';
-
+import CTO from '../../public/CTO.png'
 const About = () => {
   const stats = [
     {
@@ -35,7 +35,7 @@ const About = () => {
     {
       name: "Ivan Motuliak",
       role: "CTO",
-      image: "public/CTO.png",
+      image: CTO,
       description: "Expert in cloud architecture and scalable systems"
     }
   ];
