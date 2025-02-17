@@ -30,13 +30,13 @@ const About = () => {
       name: "Sarah Johnson",
       role: "CEO & Founder",
       image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=800",
-      description: "15+ years of experience in software development and team leadership"
+      description: "Expert in cloud architecture and scalable systems"
     },
     {
       name: "Ivan Motuliak",
       role: "CTO",
       image: CTO,
-      description: "Expert in cloud architecture and scalable systems"
+      description: "9+ years of experience in software development and team leadership"
     }
   ];
 
